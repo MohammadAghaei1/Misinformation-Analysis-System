@@ -61,4 +61,4 @@ For detailed, step-by-step instructions, please refer to:
 
 ## ⚖️ License
 
-This project is licensed under the **GNU GPLv3 License**. See the license file for details.
+This project is licensed under the **GNU GPLv3 License**.
